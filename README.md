@@ -55,6 +55,6 @@ SEO optimization
 Accessibility improvements
 Multi-page routing
 🌐 Live Demo
-[Add your Vercel link here]
+[https://site-4z92lbtlf-sagarvidyas-projects.vercel.app/]
 📌 Conclusion
 This project demonstrates the ability to build a structured, responsive, and interactive web application using modern frontend technologies along with effective use of AI tools. 
